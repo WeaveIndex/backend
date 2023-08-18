@@ -1,5 +1,12 @@
-package backend
+package main
+
+import (
+	"backend/src"
+	"github.com/labstack/echo/v4"
+)
 
 func main() {
-	println("Hello world")
+	e := echo.New()
+
+	src.Serve(e)
 }
