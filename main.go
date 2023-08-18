@@ -1,7 +1,7 @@
 package main
 
 import (
-	"backend/src"
+	"github.com/WeaveIndex/backend/src"
 	"github.com/labstack/echo/v4"
 )
 

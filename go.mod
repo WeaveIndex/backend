@@ -1,4 +1,4 @@
-module backend
+module github.com/WeaveIndex/backend
 
 go 1.21
 

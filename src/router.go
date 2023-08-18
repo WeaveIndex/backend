@@ -1,7 +1,7 @@
 package src
 
 import (
-	"backend/src/pages"
+	"github.com/WeaveIndex/backend/src/pages"
 	"github.com/labstack/echo/v4"
 )
 
